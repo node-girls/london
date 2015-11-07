@@ -24,6 +24,7 @@ If you have a Linux computer, you might find [this blog post](http://blog.teamtr
 We have a jam-packed day planned for you and you can keep track of it here.
 
 |When?|What?|
+|---|---|
 |10am - 10.15am|Introductions and icebreaker|
 |10.15am - 11am|'What is Node?' and code-along|
 |11am - 1pm|Build your first server code-along|
