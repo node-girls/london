@@ -1,6 +1,8 @@
 # Node Girls
 ## Node.js day - Saturday 7th November 2015
 
+[![Join the chat at https://gitter.im/node-girls/london](https://badges.gitter.im/node-girls/london.svg)](https://gitter.im/node-girls/london?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ### Contents
 + [Introduction](#introduction)
 + [Pre-requisites](#prerequisites)
