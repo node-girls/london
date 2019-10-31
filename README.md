@@ -21,5 +21,5 @@ There are also loads of great meetups in London aimed at encouraging people (and
 
 ### <a name="contact"></a>Stay in Contact!
 We'd love to hear how you're getting on with your journey in learning to code so let us know!
-Email: <mailto:nodegirlslondon@gmail.com>
+Email: <mailto:london@nodegirls.com>
 Twitter: [@nodegirlslondon](https://twitter.com/nodegirlslondon)
